@@ -1,0 +1,1 @@
+Fork: https://github.com/jbrodriguez/mlog/blob/master/mlog.go
